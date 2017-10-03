@@ -6,12 +6,12 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.076738, 
-          "lon": -96.744529
+      	  "lat": 17.063335, 
+          "lon": -96.730392
         }
       },
 	"icon": {
-        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/Soledad.jpg"
+        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/IMG_20171003_151945.jpg"
       }, 
       "id": 1, 
       "text": {
