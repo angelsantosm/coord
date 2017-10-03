@@ -5,13 +5,48 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.0769061, 
-          "lon":-96.744558
+      	  "lat": 17.076738, 
+          "lon": -96.744529
         }
       }, 
       "id": 1, 
       "text": {
         "title": "This is a basic POI"
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      }, 
+      "icon": {
+        "url": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "This POI has a custom icon and description"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "This POI has an action"
       }
     }
   ], 
