@@ -22,7 +22,7 @@
         }
       }, 
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        "url": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
       }, 
       "id": 2, 
       "text": {
@@ -35,7 +35,7 @@
         {
           "contentType": "text/html", 
           "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+          "uri": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
         }
       ], 
       "anchor": {
