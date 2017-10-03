@@ -36,16 +36,16 @@
         {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.076738, 
-          "lon": -96.744529
+      	  "lat": 17.063112, 
+          "lon": -96.724396
         }
       },
 	"icon": {
-        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/Hongo_de_Mario_Bros.png"
+        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/IMG_20171003_165255.jpg"
       }, 
       "id": 3, 
       "text": {
-        "title": "Museo del centro 3"
+        "title": "Museo de Arte Contemporáneo de Oaxaca"
       }
     }
     
