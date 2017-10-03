@@ -1,0 +1,55 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/Hongo_de_Mario_Bros.png"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "Museo de los pintores Oaxaqueños"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/Hongo_de_Mario_Bros.png"
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "Museo del centro1"
+      }
+    },
+        {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/angelsantosm/coord/master/Hongo_de_Mario_Bros.png"
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "Museo del centro 3"
+      }
+    }
+    
+    ], 
+     
+  "layer": "museosp66p"
+}
